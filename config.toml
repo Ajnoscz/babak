@@ -1,0 +1,38 @@
+baseURL = 'https://papaya-hamster-482ac8.netlify.app/'
+languageCode = 'en-us'
+title = 'BabakNews'
+description = "test"
+
+theme = "hugo-theme-stack"
+
+[taxanomies]
+    tag = "tags"
+    category = "categories"
+
+[menu]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+    identifier = "home"
+    [menu.main.params]
+        icon = "home"
+        newTab = false
+[[menu.main]]
+    name = "About"
+    url = "/About"
+    weight = 10
+    identifier = "about"
+    [menu.main.params]
+        icon = "clock"
+        newTab = false
+[widgets]        
+[[widgets.homepage]]
+type = "categories"
+
+[widgets.homepage.params]
+limit = 10
+
+[sidebar]
+emoji = "🍥"
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
