@@ -21,7 +21,7 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle: LLL
+        subtitle: Testovací Stranka
         avatar:
             enabled: true
             local: true

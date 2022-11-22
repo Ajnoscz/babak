@@ -214,7 +214,7 @@ related:
     threshold: 60
     toLower: false
     indices:
-        - name: tags
+        - name: lol
           weight: 100
 
         - name: categories

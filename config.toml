@@ -1,13 +1,9 @@
 baseURL = 'https://creative-fudge-f9a80d.netlify.app/'
 languageCode = 'en-us'
 title = 'BabakNews'
-description = "test"
+description = "školní noviny"
 
 theme = "hugo-theme-stack"
-
-[taxanomies]
-    tag = "tags"
-    category = "categories"
 
 [menu]
 [[menu.main]]
@@ -34,5 +30,5 @@ type = "categories"
 limit = 10
 
 [sidebar]
-emoji = "🍥"
+emoji = ""
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

@@ -1,4 +1,4 @@
-$defaultTagBackgrounds: #8ea885, #df7988, #0177b8, #ffb900, #6b69d6;
+$defaultTagBackgrounds: #008394, #db0021, #01b881, #ebac00, #7500d4;
 $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 
 /*
@@ -11,27 +11,27 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --main-top-padding: 50px;
     }
 
-    --body-background: #f5f5fa;
+    --body-background: #d2d9ff;
 
-    --accent-color: #34495e;
-    --accent-color-darker: #2c3e50;
-    --accent-color-text: #fff;
-    --body-text-color: #bababa;
+    --accent-color: #000b3b;
+    --accent-color-darker: #040018;
+    --accent-color-text: rgb(0, 0, 0);
+    --body-text-color: #0e0e0e;
 
     --tag-border-radius: 4px;
 
     --section-separation: 40px;
 
-    --scrollbar-thumb: hsl(0, 0%, 85%);
+    --scrollbar-thumb: hsl(0, 0%, 39%);
     --scrollbar-track: var(--body-background);
 
     &[data-scheme="dark"] {
-        --body-background: #303030;
-        --accent-color: #ecf0f1;
-        --accent-color-darker: #bdc3c7;
+        --body-background: #010022;
+        --accent-color: #ffffff;
+        --accent-color-darker: #4d4d4d;
         --accent-color-text: #000;
-        --body-text-color: rgba(255, 255, 255, 0.7);
-        --scrollbar-thumb: hsl(0, 0%, 40%);
+        --body-text-color: rgb(255, 255, 255);
+        --scrollbar-thumb: hsla(0, 0%, 37%, 0.514);
         --scrollbar-track: var(--body-background);
     }
 }
@@ -51,11 +51,11 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
 *   Card style
 */
 :root {
-    --card-background: #fff;
+    --card-background: rgb(196, 196, 196);
     --card-background-selected: #eaeaea;
 
     --card-text-color-main: #000;
-    --card-text-color-secondary: #747474;
+    --card-text-color-secondary: #3f3f3f;
     --card-text-color-tertiary: #bababa;
     --card-separator-color: rgba(218, 218, 218, 0.5);
 
