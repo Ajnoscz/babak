@@ -1,12 +1,10 @@
 ---
-title: "About"
-date: 2022-11-19T18:49:51+01:00
+title: "O nás"
 image: "post/new/saul.png"
-style:
-    background: "#FFFFFF"
-    color: "#fff"
 ---
 
+
+{{< youtube dQw4w9WgXcQ >}}
 LMoa
 rd
 gh¨
@@ -16,3 +14,4 @@ hr
 thr
 t
 rt
+

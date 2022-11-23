@@ -157,18 +157,11 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+        - identifier: link
+          name: Oficialní Školní Web
+          url: https://www.zsbabak.cz/
           params:
-              icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com/ajnoscz
-          params:
-              icon: brand-twitter
-
+              icon: link
 markup:
     goldmark:
         renderer:
