@@ -29,7 +29,7 @@
     {{ if $showFooter }}
     <footer class="article-time">
         {{ if $showDate }}
-            <div style="background-color: rgba(15, 15, 15, 0.5); border-radius: 10px; padding: 10px;">
+            <div style="background-color: rgba(15, 15, 15, 0.7); border-radius: 10px; padding: 10px;">
                 {{ partial "helper/icon" "date" }}
                 <time class="article-time--published">
                     {{- .Date.Format (or .Site.Params.dateFormat.published "Jan 02, 2006") -}}
@@ -38,7 +38,7 @@
         {{ end }}
 
         {{ if $showReadingTime }}
-            <div style="background-color: rgba(15, 15, 15, 0.5); border-radius: 10px; padding: 10px;">
+            <div style="background-color: rgba(15, 15, 15, 0.7); border-radius: 10px; padding: 10px;">
                 {{ partial "helper/icon" "clock" }}
                 <time class="article-time--reading">
                     {{ T "article.readingTime" .ReadingTime }}

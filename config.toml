@@ -1,6 +1,6 @@
 baseURL = 'https://creative-fudge-f9a80d.netlify.app/'
 languageCode = 'en-us'
-title = 'BabakNews'
+title = 'Babakoviny'
 description = "školní noviny"
 
 theme = "hugo-theme-stack"
@@ -22,6 +22,7 @@ theme = "hugo-theme-stack"
     [menu.main.params]
         icon = "clock"
         newTab = false
+        
 [widgets]        
 [[widgets.homepage]]
 type = "categories"

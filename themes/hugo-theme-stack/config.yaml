@@ -21,7 +21,7 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle: Testovací Stranka
+        subtitle: Officialní Noviny ZŠ Jana Babaka
         avatar:
             enabled: true
             local: true
