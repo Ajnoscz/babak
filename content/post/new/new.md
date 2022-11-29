@@ -6,6 +6,8 @@ categories: ["LMAO"]
 image: "post/new/budova.jpg"
 ---
 
+# New
+
 HII
 
 LETS GO
