@@ -22,7 +22,14 @@ theme = "hugo-theme-stack"
     [menu.main.params]
         icon = "clock"
         newTab = false
-        
+[[menu.main]]
+    name = "Sport"
+    url = "/404"
+    weight = 10
+    identifier = "sport"
+    [menu.main.params]
+        icon = "clock"
+	newTab = false
 [widgets]        
 [[widgets.homepage]]
 type = "categories"
