@@ -15,7 +15,6 @@ features = [
     "photoswipe",
     "opengraph",
     "widgets",
-    "darkmode",
     "table of contents",
     "search",
 ]

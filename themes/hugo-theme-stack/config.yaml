@@ -21,7 +21,7 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle: Officialní Noviny ZŠ Jana Babaka
+        subtitle: Officialní Online Noviny ZŠ Jana Babaka
         avatar:
             enabled: true
             local: true
@@ -112,24 +112,24 @@ params:
             id:
 
     widgets:
-        homepage:
-            - type: search
-            - type: archives
-              params:
-                  limit: 5
-            - type: categories
-              params:
-                  limit: 10
-            - type: tag-cloud
-              params:
-                  limit: 10
+        #homepage:
+            #- type: search
+            #- type: archives
+            #  params:
+            #      limit: 5
+            #- type: categories
+            #  params:
+            #      limit: 10
+            #- type: tag-cloud
+            #  params:
+            #      limit: 10
         page:
             - type: toc
 
     opengraph:
         twitter:
             # Your Twitter username
-            site: ajnoscz
+            site:
 
             # Available values: summary, summary_large_image
             card: summary_large_image
