@@ -28,7 +28,7 @@ theme = "hugo-theme-stack"
     weight = 3
     identifier = "roozhovory"
     [menu.main.params]
-        icon = "microphone"
+        icon = "clock"
 	newTab = false  
 [[menu.main]]
     name = "Kultura"
@@ -36,7 +36,7 @@ theme = "hugo-theme-stack"
     weight = 4
     identifier = "kultura"
     [menu.main.params]
-        icon = "people"
+        icon = "clock"
 	newTab = false  
 [[menu.main]]
     name = "Sport"
@@ -44,7 +44,7 @@ theme = "hugo-theme-stack"
     weight = 5
     identifier = "sport"
     [menu.main.params]
-        icon = "football"
+        icon = "clock"
 	newTab = false      
 [[menu.main]]
     name = "O nás"
