@@ -9,15 +9,47 @@ theme = "hugo-theme-stack"
 [[menu.main]]
     name = "Home"
     url = "/"
-    weight = 10
+    weight = 1
     identifier = "home"
     [menu.main.params]
         icon = "home"
         newTab = false
 [[menu.main]]
-    name = "About"
+    name = "Aktuality"
+    url = "/categories/aktuality/"
+    weight = 2
+    identifier = "aktuality"
+    [menu.main.params]
+        icon = "messages"
+	newTab = false
+[[menu.main]]
+    name = "Rozhovory"
+    url = "/categories/rozhovory/"
+    weight = 3
+    identifier = "roozhovory"
+    [menu.main.params]
+        icon = "clock"
+	newTab = false  
+[[menu.main]]
+    name = "Kultura"
+    url = "/categories/kultura/"
+    weight = 4
+    identifier = "kultura"
+    [menu.main.params]
+        icon = "clock"
+	newTab = false  
+[[menu.main]]
+    name = "Sport"
+    url = "/categories/sport/"
+    weight = 5
+    identifier = "sport"
+    [menu.main.params]
+        icon = "clock"
+	newTab = false      
+[[menu.main]]
+    name = "O nás"
     url = "/About"
-    weight = 10
+    weight = 20
     identifier = "about"
     [menu.main.params]
         icon = "clock"
