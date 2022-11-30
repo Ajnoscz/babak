@@ -11,7 +11,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
         --main-top-padding: 50px;
     }
 
-    --body-background: radial-gradient(circle, rgb(255, 255, 244) 27%, rgb(160, 190, 255) 100%);
+    --body-background: radial-gradient(circle, rgb(255, 255, 244) 5%, rgb(160, 190, 255) 100%);
     --accent-color: #000000;
     --accent-color-darker: #000000;
     --accent-color-text: rgb(255, 255, 255);
@@ -25,7 +25,7 @@ $defaultTagColors: #fff, #fff, #fff, #fff, #fff;
     --scrollbar-track: var(--body-background);
 
     &[data-scheme="dark"] {
-        --body-background: radial-gradient(circle, rgba(0,14,99,1) 27%, rgba(0,0,34,1) 100%);
+        --body-background: radial-gradient(circle, rgba(0,14,99,1) 5%, rgba(0,0,34,1) 100%);
         --accent-color: #ffffff;
         --accent-color-darker: #4d4d4d;
         --accent-color-text: #000;
