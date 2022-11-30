@@ -1,0 +1,35 @@
+baseURL = 'https://creative-fudge-f9a80d.netlify.app/'
+languageCode = 'en-us'
+title = 'Babakoviny'
+description = "školní noviny"
+
+theme = "hugo-theme-stack"
+
+[menu]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+    identifier = "home"
+    [menu.main.params]
+        icon = "home"
+        newTab = false
+[[menu.main]]
+    name = "About"
+    url = "/About"
+    weight = 10
+    identifier = "about"
+    [menu.main.params]
+        icon = "clock"
+        newTab = false
+        
+[widgets]        
+[[widgets.homepage]]
+type = "categories"
+
+[widgets.homepage.params]
+limit = 10
+
+[sidebar]
+emoji = ""
+subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
