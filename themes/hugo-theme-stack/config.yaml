@@ -167,11 +167,8 @@ menu:
           name: Instagram
           url: https://www.instagram.com/zsjanababaka_official/?hl=cs/
           params:
-<<<<<<< HEAD
               icon: instagram
-=======
-              icon: forest
->>>>>>> f33c0ae772f0edec0e54b386e91ae7e029995ed3
+
 markup:
     goldmark:
         renderer:
