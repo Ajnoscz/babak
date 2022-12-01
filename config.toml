@@ -28,7 +28,7 @@ theme = "hugo-theme-stack"
     weight = 3
     identifier = "roozhovory"
     [menu.main.params]
-        icon = "clock"
+        icon = "microphone"
 	newTab = false  
 [[menu.main]]
     name = "Kultura"
