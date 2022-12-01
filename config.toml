@@ -44,7 +44,7 @@ theme = "hugo-theme-stack"
     weight = 5
     identifier = "sport"
     [menu.main.params]
-        icon = "clock"
+        icon = "football"
 	newTab = false      
 [[menu.main]]
     name = "O nás"
