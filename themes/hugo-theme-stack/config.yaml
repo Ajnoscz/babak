@@ -162,6 +162,11 @@ menu:
           url: https://www.zsbabak.cz/
           params:
               icon: link
+        - identifier: insta
+          name: Instagram
+          url: https://www.instagram.com/zsjanababaka_official/?hl=cs
+          params:
+              icon: link
 markup:
     goldmark:
         renderer:
