@@ -28,7 +28,11 @@ theme = "hugo-theme-stack"
     weight = 3
     identifier = "roozhovory"
     [menu.main.params]
+<<<<<<< HEAD
         icon = "clock"
+=======
+        icon = "microphone"
+>>>>>>> 73c953dca697aab251a42b8a148b70d8ccb697aa
 	newTab = false  
 [[menu.main]]
     name = "Kultura"
@@ -36,7 +40,11 @@ theme = "hugo-theme-stack"
     weight = 4
     identifier = "kultura"
     [menu.main.params]
+<<<<<<< HEAD
         icon = "clock"
+=======
+        icon = "forest"
+>>>>>>> 73c953dca697aab251a42b8a148b70d8ccb697aa
 	newTab = false  
 [[menu.main]]
     name = "Sport"
@@ -44,7 +52,11 @@ theme = "hugo-theme-stack"
     weight = 5
     identifier = "sport"
     [menu.main.params]
+<<<<<<< HEAD
         icon = "clock"
+=======
+        icon = "football"
+>>>>>>> 73c953dca697aab251a42b8a148b70d8ccb697aa
 	newTab = false      
 [[menu.main]]
     name = "O nás"
