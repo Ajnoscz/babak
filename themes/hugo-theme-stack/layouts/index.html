@@ -1,5 +1,6 @@
 {{ define "main" }}
     <img src="/post/new.jpg" style="height: 150px; object-fit: cover; object-position: 0% 35%; border-radius: 20px;"/>
+    <hr style="border-top: 10px solid rgba(34, 34, 34, 0.5); border-radius: 5px; width: 100%;">
     {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
     {{ $notHidden := where .Site.RegularPages "Params.hidden" "!=" true }}
     {{ $filtered := ($pages | intersect $notHidden) }}
