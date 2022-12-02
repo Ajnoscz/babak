@@ -2,9 +2,6 @@
 title: "O nás"
 ---
 
-# Vítej
+# Není k dispozici 
 
-{{< youtube dQw4w9WgXcQ >}}
-
-
-Test
+# bude to přidano později pro informace o škole bežte na oficiální web školy, děkujeme
