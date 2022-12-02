@@ -2,6 +2,7 @@
 title: "DENIS KRATOCHVÍL – 6x nejlepší střelec klubu"
 date: 2022-12-02T00:30:44+01:00
 draft: false
+categories: ["Sport"]
 image: "/post/fc.png"
 ---
 Je mu teprve 14 let. Kromě studia a trávení času s kamarády se ve volném čase věnuje fotbalu. Víc o svém koníčku nám v rozhovoru prozradil žák 9.A, Denis Kratochvíl, který aktuálně působí v klubu FC Svratka Brno.
