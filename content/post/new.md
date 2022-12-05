@@ -35,5 +35,5 @@ V našem týmu by se rozhodně měla zlepšit komunikace na hřišti, protože n
 
 Rozhodně běhat, posilovat a hrát si s míčem. Já ráno běhám, potom mám klid a odpoledne trénink, večer posiluji.
 Děkujeme Denisi Kratochvílovi za rozhovor a přejeme mu hodně štěstí v kariéře.
-
+ ok
 
